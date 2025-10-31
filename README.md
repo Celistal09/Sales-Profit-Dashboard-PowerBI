@@ -30,26 +30,26 @@ The goal is to help businesses make **data-driven decisions** by identifying top
 
 #### 🏠 Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png.png)
 
 #### 🌍 Sales & Profit by Region
 
-![Sales & Profit by Region](screenshots/profit_by_region.png)
+![Sales & Profit by Region](screenshots/profit_by_region.png.png)
 
 #### 👥 Profit by Customer Segment
 
 **Consumer Segment**
-![Consumer Segment](screenshots/profit_by_segment_consumer.png)
+![Consumer Segment](screenshots/profit_by_segment_consumer.png.png)
 
 **Corporate Segment**
-![Corporate Segment](screenshots/profit_by_segment_corporate.png)
+![Corporate Segment](screenshots/profit_by_segment_corporate.png.png)
 
 **Home Office Segment**
-![Home Office Segment](screenshots/profit_by_segment_homeoffice.png)
+![Home Office Segment](screenshots/profit_by_segment_homeoffice.png.png)
 
 #### 🏆 Top & Bottom Performing Products
 
-![Top Bottom Products](screenshots/top_bottom_products.png)
+![Top Bottom Products](screenshots/top_bottom_products.png.png)
 
 ---
 
